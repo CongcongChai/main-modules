@@ -1,6 +1,6 @@
 #include<iostream>
 
-void helloWorld()
+void HelloWorld()
 {
-    std::cout<<"Hello, World!"<<std::endl;
+    std::cout << "Hello, World!" << std::endl;
 }
